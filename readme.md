@@ -12,7 +12,7 @@
 - [ ] All the basic resources for your understanding are present on the `GoGit` and `git-and-github` channel of our discord server.
 
 # Communication 🗣️
-  If you have any doubt, problem or suggestions, you can ping me anytime in the `GoGit-3.0` channel of our<a href = "https://discord.gg/nBfNNJYh"> Discord </a> server.
+  If you have any doubt, problem or suggestions, you can ping me anytime in the `GoGit-4.0` channel of our<a href = "https://discord.gg/uNdynbJ5"> Discord </a> server.
   
 # Guidelines 🔴
 1. Do not make PR which is not related to any issues.

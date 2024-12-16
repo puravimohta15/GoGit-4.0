@@ -9,10 +9,10 @@ Hi, I am a passionate and dedicated individual with a strong interest in coding,
 
 ## Question and Answer Section
 ### Question:
-Why are you interested in competitve coding and what inspires you the most about this field?  
+Why are you interested in competitive coding and what inspires you the most about this field?  
 
 ### Answer:
-Competitve Coding inspires me because of its ability to make me think logically, analyze tasks critically and solve problems. 
+Competitive Coding inspires me because of its ability to make me think logically, analyze tasks critically and solve problems. 
 
 ## Hobbies
 - **Chess**: I'm a chess enthusiast and am currently rated 1250 on chess.com

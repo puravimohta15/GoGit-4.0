@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a second year student at IIT Delhi pursuing BTech in computer Scienc. I am enthusiastic in competitive programming.I am actively involved in opencode24 looking forward to learn many stuffs other than cp and earn points thsi winter.
+I am a second year student at IIT Delhi pursuing BTech in computer Scienc. I am enthusiastic in competitive programming.I am actively involved in opencode24 looking forward to learn many stuffs other than cp and earn points this winter.
 
 ## Academic Details
 

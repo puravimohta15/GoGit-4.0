@@ -1,7 +1,7 @@
 # Info.md  
 
 ## 👋 About Me  
-Hi! I’m **Abdul Azeem Asnari**, I like playing Badminton
+Hi! I’m **Abdul Azeem Ansari**, I like playing Badminton
 I want to learn how to contribute to  **open-source projects** more effectively, also interested in ML.
 
 

@@ -3,3 +3,7 @@ Favourite Actor: Christian Bale
 Flop Movies:
 1. The hostiles
 2. Empire of the Sun
+
+Hit Movies:
+1. The Dark Knight
+2. American Psycho

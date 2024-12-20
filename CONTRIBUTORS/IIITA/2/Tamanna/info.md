@@ -9,7 +9,7 @@ Hello, this is Tamanna Kapoor, a student with an interest in web development, op
 
 ## Question and Answer Section
 ### Question:
-What drives me to contribute to open source projects? 
+What drives me to contribute to open source projects ?
 
 ### Answer:
 Contributing to open-source projects helps me gain practical experience, enhance my skills, and collaborate with a diverse community of developers to create meaningful solutions. 

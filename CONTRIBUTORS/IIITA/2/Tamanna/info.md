@@ -4,7 +4,7 @@
 Hello, this is Tamanna Kapoor, a student with an interest in web development, open source contributions, and competitive programming. I'm focused on learning new technologies ,improving my coding skils, and collaborating on impactful projects.
 
 ## Academic Details
-- **College Name**: Indian Institue of Information Technology, Allahabad
+- **College Name**: Indian Institue of Information Technology, Allahabad.
 - **Current Year of UG Course**: 2nd Year  
 
 ## Question and Answer Section

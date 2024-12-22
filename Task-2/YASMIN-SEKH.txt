@@ -1,8 +1,5 @@
 Shah Rukh Khan
-<<<<<<< HEAD
-fan
-zero
-=======
 ddlj
 chennai express
->>>>>>> Task2
+fan
+zero
